@@ -12,25 +12,25 @@ This project demonstrates how to deploy a machine learning model using the Gradi
    git clone https://github.com/SunilaSaadat/ml-model-deployment.git
 Navigate to the project directory:
 
-bash
-Copy code
+2. **Navigate to the project directory:**
+   ```bash
 cd ml-model-deployment
 Install required packages:
 
-bash
-Copy code
+3. **Install required packages:**
+   ```bash
+  
 pip install -r requirements.txt
 Run the model saving script:
 
-bash
-Copy code
-python save_model.py
-Run the Gradio interface:
+4. **Run the script:**
+    ```bash
 
-bash
-Copy code
-python app.py
-Dependencies
+python main.py
+
+5. **Dependencies:**
+     ```bash
+
 transformers
 torch
 gradio
