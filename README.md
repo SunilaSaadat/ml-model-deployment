@@ -17,16 +17,11 @@ Navigate to the project directory:
     cd ml-model-deployment
    Install required packages:
 
-3. **Install required packages:**
-   ```bash
-   pip install -r requirements.txt
-Run the model saving script:
-
-4. **Run the script:**
+3. **Run the script:**
     ```bash
    python main.py
 
-5. **Dependencies:**
+4. **Dependencies:**
      ```bash
      transformers
      torch
