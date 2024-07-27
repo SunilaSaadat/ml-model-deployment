@@ -14,23 +14,20 @@ Navigate to the project directory:
 
 2. **Navigate to the project directory:**
    ```bash
-cd ml-model-deployment
-Install required packages:
+    cd ml-model-deployment
+   Install required packages:
 
 3. **Install required packages:**
    ```bash
-  
-pip install -r requirements.txt
+   pip install -r requirements.txt
 Run the model saving script:
 
 4. **Run the script:**
     ```bash
-
-python main.py
+   python main.py
 
 5. **Dependencies:**
      ```bash
-
-transformers
+     transformers
 torch
 gradio
