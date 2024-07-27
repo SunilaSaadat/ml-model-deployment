@@ -15,7 +15,7 @@ Navigate to the project directory:
 2. **Navigate to the project directory:**
    ```bash
     cd ml-model-deployment
-   Install required packages:
+   Install required packages
 
 3. **Run the script:**
     ```bash
