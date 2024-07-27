@@ -29,5 +29,5 @@ Run the model saving script:
 5. **Dependencies:**
      ```bash
      transformers
-torch
-gradio
+     torch
+     gradio
